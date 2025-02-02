@@ -14,7 +14,7 @@ let num1 = 10;
 console.log("num1", num1);
 console.log("type of num1=", typeof n1);
 
-num1 = 25.00000000000057; //max 15 dec precision.
+num1 = 25.000000000057; //max 15 dec precision.
 console.log("num1", num1);
 console.log("type of num1=", typeof n1);
 
