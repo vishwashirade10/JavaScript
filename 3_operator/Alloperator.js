@@ -67,7 +67,7 @@ console.log("a:", a);
 //object
 const emp = {
   eid: 101,
-  ename: "prajwal",
+  ename: "vishwas",
   sal: 25000.0,
 };
 console.log("in:", "sal" in emp);
